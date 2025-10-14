@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlwjd\\source\\repos\\syu2509263_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{576418B3-A6E4-4B8F-8FBD-523AED758E05}|syu2509263_client\\syu2509263_client.vcxproj|C:\\Users\\dlwjd\\source\\repos\\syu2509263_client\\syu2509263_client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{576418B3-A6E4-4B8F-8FBD-523AED758E05}|syu2509263_client\\syu2509263_client.vcxproj|solutionrelative:syu2509263_client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dlwjd\\source\\repos\\syu2509263_client\\syu2509263_client\\main.cpp",
+              "RelativeDocumentMoniker": "syu2509263_client\\main.cpp",
+              "ToolTip": "C:\\Users\\dlwjd\\source\\repos\\syu2509263_client\\syu2509263_client\\main.cpp",
+              "RelativeToolTip": "syu2509263_client\\main.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T04:19:05.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

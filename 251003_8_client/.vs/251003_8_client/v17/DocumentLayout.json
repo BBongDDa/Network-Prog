@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlwjd\\source\\repos\\251003_8_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33632CA-C1A9-435E-82BA-DD4B24E3DE2C}|251003_8_client\\251003_8_client.vcxproj|C:\\Users\\dlwjd\\source\\repos\\251003_8_client\\251003_8_client\\TCPClient_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F33632CA-C1A9-435E-82BA-DD4B24E3DE2C}|251003_8_client\\251003_8_client.vcxproj|solutionrelative:251003_8_client\\TCPClient_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient_8.cpp",
+              "DocumentMoniker": "C:\\Users\\dlwjd\\source\\repos\\251003_8_client\\251003_8_client\\TCPClient_8.cpp",
+              "RelativeDocumentMoniker": "251003_8_client\\TCPClient_8.cpp",
+              "ToolTip": "C:\\Users\\dlwjd\\source\\repos\\251003_8_client\\251003_8_client\\TCPClient_8.cpp",
+              "RelativeToolTip": "251003_8_client\\TCPClient_8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T12:29:48.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
